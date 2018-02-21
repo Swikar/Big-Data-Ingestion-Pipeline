@@ -7,7 +7,6 @@
 #Modification History :
 # Date								Description 													Changed By
 #--------------------------------------
-# 08/03/2017 					Initial Development  IBM  
 #################################################################################
 FILE_ID=$1
 BATCH_ID=$2
