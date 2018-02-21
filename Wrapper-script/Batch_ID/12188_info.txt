@@ -1,0 +1,2 @@
+set -a
+NEW_BATCH=20170620
