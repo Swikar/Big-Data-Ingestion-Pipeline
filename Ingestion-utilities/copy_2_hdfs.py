@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-# (c) Copyright IBM 2017
 
 import sys
 import subprocess
