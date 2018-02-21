@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-# (c) Copyright IBM 2017
 
 # compare external table row count against .touch file
 
